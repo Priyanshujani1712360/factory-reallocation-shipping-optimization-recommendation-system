@@ -1,0 +1,226 @@
+Product ID,Product Name,Region,Ship Mode,Current Factory,Recommended Factory,Lead Time Reduction (%),Scenario Reliability,Profit Risk,Recommendation Score,Recommendation Status
+SUG-EVE-47000,Everlasting Gobstopper,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,18.558196221815965,High,Stable / Positive,0.9446391823701701,Strong Candidate
+SUG-HAI-55000,Hair Toffee,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,18.280658938377055,High,Stable / Positive,0.9434546515630393,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,7.636220983713009,High,Stable / Positive,0.898024125884979,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,6.720509515174028,High,Stable / Positive,0.8941158637895694,Strong Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,6.171355301169459,High,Stable / Positive,0.8917720702772385,Strong Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,4.607181111162858,High,Stable / Positive,0.8850961653580016,Strong Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,3.650970612683978,High,Stable / Positive,0.8810150531574519,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,3.277559708928396,High,Stable / Positive,0.8794213331579752,Strong Candidate
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,2.8860573163438934,High,Stable / Positive,0.8777503985745725,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,2.1181995493192387,High,Stable / Positive,0.874473176972973,Strong Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,1.9798193706006613,High,Stable / Positive,0.8738825695318488,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,1.4902968509666423,High,Stable / Positive,0.8717932844523602,Strong Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,1.285750515137109,High,Stable / Positive,0.8709202794518298,Strong Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,1.2590587618964593,High,Stable / Positive,0.8708063588872912,Strong Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,1.022918753314081,High,Stable / Positive,0.8697985119000466,Strong Candidate
+SUG-EVE-47000,Everlasting Gobstopper,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,0.7312680115273841,High,Stable / Positive,0.8685537447671836,Strong Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,0.6697651526108777,High,Stable / Positive,0.8682912501927231,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,0.5766168826896528,High,Stable / Positive,0.8678936928123762,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,0.31451965677751437,High,Stable / Positive,0.8667750602643107,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,0.152828802351207,High,Stable / Positive,0.8660849627180423,Strong Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,0.1407598748685808,High,Stable / Positive,0.8660334524624287,Strong Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,-0.30121642685382494,High,Stable / Positive,0.8641470949290377,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,-0.3639970126960499,High,Stable / Positive,0.8638791470083174,Low Priority
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,-0.4857651530947793,High,Stable / Positive,0.8633594398473836,Low Priority
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,-0.4954179728991621,High,Stable / Positive,0.8633182415539784,Low Priority
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,-0.5812836636684418,High,Stable / Positive,0.8629517662655721,Low Priority
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,-0.7197408110825545,High,Stable / Positive,0.8623608303215893,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,-0.7878262848755319,High,Stable / Positive,0.8620702411069563,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,-0.8221406745712695,High,Stable / Positive,0.8619237870838468,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,-0.8702935697483112,High,Stable / Positive,0.8617182702355048,Low Priority
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,-1.0748128199816525,High,Stable / Positive,0.8608453808364633,Low Priority
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,-1.1622952024098279,High,Stable / Positive,0.8604720054982624,Low Priority
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,-1.374542711135792,High,Stable / Positive,0.8595661318451537,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,-1.4453594875758502,High,Stable / Positive,0.859263885414276,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,-1.4621802520695046,High,Stable / Positive,0.8591920942895113,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,-1.4990791896869178,High,Stable / Positive,0.8590346094002141,Low Priority
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,-1.5065134893806957,High,Stable / Positive,0.8590028797640816,Low Priority
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,-1.5228841138320284,High,Stable / Positive,0.8589330098397445,Low Priority
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,-1.712898607106035,High,Stable / Positive,0.8581220268312799,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,-1.8091227047508103,High,Stable / Positive,0.8577113417995743,Low Priority
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,-1.9457607622000817,High,Stable / Positive,0.8571281697425821,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,-2.1318419457882776,High,Stable / Positive,0.8563339741236857,Low Priority
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,-2.173109900223115,High,Stable / Positive,0.8561578422441427,Low Priority
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,-2.386526785212992,High,Stable / Positive,0.8552469776860554,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,-2.437049358744442,High,Stable / Positive,0.8550313470361406,Low Priority
+SUG-EVE-47000,Everlasting Gobstopper,Interior,Standard Class,Lot's O' Nuts,Secret Factory,20.747714808043877,Moderate,Stable / Positive,0.8539840609610243,Strong Candidate
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,-2.959993044428723,High,Stable / Positive,0.8527994202174729,Low Priority
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,-2.9809029048072007,High,Stable / Positive,0.8527101768066987,Low Priority
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,-3.1249701802814984,High,Stable / Positive,0.8520952968021667,Low Priority
+SUG-HAI-55000,Hair Toffee,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,19.97271573604061,Moderate,Stable / Positive,0.8506763602265116,Strong Candidate
+SUG-HAI-55000,Hair Toffee,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,19.697986577181204,Moderate,Stable / Positive,0.8495038145120989,Strong Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,-4.092675508997213,High,Stable / Positive,0.8479651245965265,Low Priority
+SUG-EVE-47000,Everlasting Gobstopper,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,-4.304006284367633,High,Stable / Positive,0.8470631635669332,Low Priority
+SUG-HAI-55000,Hair Toffee,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,16.721781574130564,Moderate,Stable / Positive,0.8368013535282365,Strong Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,-7.602446483180432,High,Stable / Positive,0.8329854008153499,Low Priority
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,14.275907381394715,Moderate,Stable / Positive,0.8263623476557186,Strong Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,12.36298548216823,Moderate,Stable / Positive,0.8181979854007012,Strong Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,11.839960970302457,Moderate,Stable / Positive,0.8159657136154013,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,10.606712099206787,Moderate,Stable / Positive,0.8107021999621321,Strong Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,4.955098785188752,Moderate,Stable / Positive,0.7865810800985454,Potential Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,4.794866956029438,Moderate,Stable / Positive,0.7858972096809557,Potential Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,Standard Class,Lot's O' Nuts,Secret Factory,4.615038599020759,Moderate,Stable / Positive,0.7851297011637824,Potential Candidate
+SUG-HAI-55000,Hair Toffee,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,-19.50130095403295,High,Stable / Positive,0.7822010178465237,Low Priority
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,3.8784891996611366,Moderate,Stable / Positive,0.7819861038650537,Potential Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,First Class,Lot's O' Nuts,Secret Factory,3.604763615263471,Moderate,Stable / Positive,0.7808178414125236,Potential Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,Standard Class,Lot's O' Nuts,Secret Factory,2.9945095619987634,Moderate,Stable / Positive,0.7782132734160674,Potential Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,2.9698924158027,Moderate,Stable / Positive,0.7781082072869637,Potential Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,2.7139975214268306,Moderate,Stable / Positive,0.7770160463274709,Potential Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,Standard Class,Lot's O' Nuts,Secret Factory,1.8884077252591422,Moderate,Stable / Positive,0.7734924240757289,Potential Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,First Class,Lot's O' Nuts,Secret Factory,1.577648650799967,Moderate,Stable / Positive,0.7721661024632551,Potential Candidate
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,1.4324833680565938,Moderate,Stable / Positive,0.7715465361570467,Potential Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,0.9602222186094092,Moderate,Stable / Positive,0.7695309227100907,Potential Candidate
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,0.6782131336746479,Moderate,Stable / Positive,0.768327306227084,Potential Candidate
+SUG-EVE-47000,Everlasting Gobstopper,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,0.2356637863315004,Moderate,Stable / Positive,0.7664385029315121,Potential Candidate
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,-2.7104538898708017,Moderate,Stable / Positive,0.7538644548409175,Low Priority
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,-3.0029149773608323,Moderate,Stable / Positive,0.7526162291476832,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,-3.816589965203737,Moderate,Stable / Positive,0.7491434593700553,Low Priority
+SUG-HAI-55000,Hair Toffee,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,-36.35066258919469,High,Stable / Positive,0.710287840308603,Low Priority
+SUG-HAI-55000,Hair Toffee,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,-21.017329255861373,Moderate,Stable / Positive,0.6757305998697152,Low Priority
+SUG-SWE-91000,SweeTARTS,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,24.5702479338843,High,High Profit Risk,0.5702986555002914,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,23.038655462184874,High,High Profit Risk,0.5637618095521804,Low Priority
+SUG-SWE-91000,SweeTARTS,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,21.721432632177372,High,High Profit Risk,0.5581398945335332,Low Priority
+SUG-LAF-25000,Laffy Taffy,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,20.872782874617734,High,High Profit Risk,0.5545178522268657,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,18.50853658536585,High,High Profit Risk,0.5444272347409462,Low Priority
+SUG-LAF-25000,Laffy Taffy,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,18.339438339438345,High,High Profit Risk,0.5437055224028742,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,17.08846857840146,High,High Profit Risk,0.5383663758839767,Low Priority
+OTH-KAZ-38000,Kazookles,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,16.596148148148146,High,High Profit Risk,0.5362651493050143,Low Priority
+OTH-GUM-21000,Wonka Gum,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,14.19277108433735,High,High Profit Risk,0.5260075214362103,Low Priority
+SUG-LAF-25000,Laffy Taffy,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,13.810810810810803,High,High Profit Risk,0.5243773126747564,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,13.644649184975204,High,High Profit Risk,0.5236681338490274,Low Priority
+SUG-SWE-91000,SweeTARTS,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,12.267396061269139,High,High Profit Risk,0.5177900091731914,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,11.091027167442363,High,High Profit Risk,0.5127692596075037,Low Priority
+OTH-GUM-21000,Wonka Gum,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,31.52931596091205,Moderate,High Profit Risk,0.5,Low Priority
+SUG-FUN-75000,Fun Dip,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,7.819683413626971,High,High Profit Risk,0.49880714464732856,Low Priority
+OTH-GUM-21000,Wonka Gum,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,7.071803054479134,High,High Profit Risk,0.49561518674357696,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,6.583760010502828,High,High Profit Risk,0.4935322160751586,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,6.27453671928621,High,High Profit Risk,0.4922124491948683,Low Priority
+OTH-KAZ-38000,Kazookles,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,6.253530771206028,High,High Profit Risk,0.4921227956812011,Low Priority
+OTH-KAZ-38000,Kazookles,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,5.574972587719308,High,High Profit Risk,0.48922670524314804,Low Priority
+OTH-GUM-21000,Wonka Gum,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,5.444185444185448,High,High Profit Risk,0.48866850492219344,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,4.113750731421895,High,High Profit Risk,0.4829902015079015,Low Priority
+SUG-LAF-25000,Laffy Taffy,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,27.52258852258852,Moderate,High Profit Risk,0.48289926301914454,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,3.4296448087431672,High,High Profit Risk,0.4800704332853669,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,3.4274831105361545,High,High Profit Risk,0.4800612071443231,Low Priority
+OTH-KAZ-38000,Kazookles,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,3.2144650522394147,High,High Profit Risk,0.4791520447809782,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,2.6427960405719144,High,High Profit Risk,0.4767121579758198,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,2.2684221319880367,High,High Profit Risk,0.47511432786590185,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,2.1582290664100205,High,High Profit Risk,0.47464402319442855,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,1.998564691408651,High,High Profit Risk,0.4739625746746227,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,1.6552273562936621,High,High Profit Risk,0.47249720884829993,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,1.5729178477812953,High,High Profit Risk,0.4721459113673107,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,1.5633023405965014,High,High Profit Risk,0.472104872324392,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,1.5386682135987462,High,High Profit Risk,0.47199973372112386,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,1.420960500844346,High,High Profit Risk,0.47149735648997554,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,1.4161676229251094,High,High Profit Risk,0.47147690045797935,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,1.1249258700362397,High,High Profit Risk,0.47023387889221,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,0.9262173554920188,High,High Profit Risk,0.46938578974829287,Low Priority
+OTH-GUM-21000,Wonka Gum,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,0.6011220945765361,High,High Profit Risk,0.4679982812051701,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,0.47252225274156956,High,High Profit Risk,0.46744941630111775,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,0.2859271479126202,High,High Profit Risk,0.4666530272632525,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,0.26454450261780427,High,High Profit Risk,0.46656176600359095,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,0.2116394451888696,High,High Profit Risk,0.4663359668979678,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,0.1559932949925453,High,High Profit Risk,0.466098468791807,Low Priority
+OTH-KAZ-38000,Kazookles,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,0.13303604607952163,High,High Profit Risk,0.4660004871143635,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,-0.003133198693868538,High,High Profit Risk,0.465419315952712,Low Priority
+OTH-KAZ-38000,Kazookles,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,-0.17801047120419664,High,High Profit Risk,0.4646729386941731,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,-0.3405731676388567,High,High Profit Risk,0.4639791201209309,Low Priority
+OTH-KAZ-38000,Kazookles,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,-0.7577881619937709,High,High Profit Risk,0.4621984439973966,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,-0.8713423980599431,High,High Profit Risk,0.4617137938299168,Low Priority
+OTH-KAZ-38000,Kazookles,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,-0.9375459221160904,High,High Profit Risk,0.4614312367881621,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,-1.1155867444398349,High,High Profit Risk,0.4606713574798537,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,-1.1896267151264552,High,High Profit Risk,0.4603553544364044,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,-1.2870568410136796,High,High Profit Risk,0.4599395220688536,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,-1.423099587507378,High,High Profit Risk,0.4593588908026261,Low Priority
+SUG-SWE-91000,SweeTARTS,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,-1.564360189573468,High,High Profit Risk,0.4587559896972042,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,-1.6890034003610241,High,High Profit Risk,0.45822401171843286,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,-1.8860946613031764,High,High Profit Risk,0.4573828250226871,Low Priority
+OTH-GUM-21000,Wonka Gum,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,-1.9487785657998438,High,High Profit Risk,0.4571152897385354,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,-2.0513822381393076,High,High Profit Risk,0.45667737664338326,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,-2.290274684484032,High,High Profit Risk,0.4556577822350939,Low Priority
+OTH-GUM-21000,Wonka Gum,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,-2.405699287589046,High,High Profit Risk,0.455165149329761,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,-2.6350599765505174,High,High Profit Risk,0.4541862365197299,Low Priority
+OTH-KAZ-38000,Kazookles,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,-2.6584774037003296,High,High Profit Risk,0.45408629079878393,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Interior,Standard Class,Lot's O' Nuts,Secret Factory,20.699390243902442,Moderate,High Profit Risk,0.4537778114285024,Low Priority
+OTH-GUM-21000,Wonka Gum,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,-2.954783912065956,High,High Profit Risk,0.4528216528259558,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,-3.0677501653595463,High,High Profit Risk,0.45233951217251156,Low Priority
+OTH-KAZ-38000,Kazookles,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,-4.2145161290322575,High,High Profit Risk,0.44744510809206584,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,-4.992150706436414,High,High Profit Risk,0.4441261590045354,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,-5.13186813186814,High,High Profit Risk,0.443529844186338,Low Priority
+SUG-SWE-91000,SweeTARTS,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,-5.637578616352204,High,High Profit Risk,0.4413714687747974,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,-5.653736218864845,High,High Profit Risk,0.44130250802938525,Low Priority
+OTH-GUM-21000,Wonka Gum,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,-5.768456755228938,High,High Profit Risk,0.44081288008516806,Low Priority
+SUG-LAF-25000,Laffy Taffy,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,-6.268445839874404,High,High Profit Risk,0.4386789236428006,Low Priority
+OTH-GUM-21000,Wonka Gum,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,-6.785604182025325,High,High Profit Risk,0.43647168870538283,Low Priority
+OTH-GUM-21000,Wonka Gum,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,-6.897749703908401,High,High Profit Risk,0.4359930509385709,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,-7.877290836653378,High,High Profit Risk,0.43181236344962853,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,First Class,Lot's O' Nuts,Secret Factory,15.498228206945432,Moderate,High Profit Risk,0.4315792203443961,Low Priority
+SUG-LAF-25000,Laffy Taffy,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,-7.999999999999999,High,High Profit Risk,0.43128863999705214,Low Priority
+SUG-LAF-25000,Laffy Taffy,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,15.3056628056628,Moderate,High Profit Risk,0.4307573500450964,Low Priority
+SUG-SWE-91000,SweeTARTS,Interior,Standard Class,Lot's O' Nuts,Secret Factory,14.62603938730853,Moderate,High Profit Risk,0.4278567131781752,Low Priority
+OTH-GUM-21000,Wonka Gum,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,-9.075691035908044,High,High Profit Risk,0.4266975841389017,Low Priority
+SUG-NER-92000,Nerds,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,-9.538335718666948,High,High Profit Risk,0.42472301383003097,Low Priority
+OTH-KAZ-38000,Kazookles,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,-9.678773204196938,High,High Profit Risk,0.42412362579097185,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,13.161039461020211,Moderate,High Profit Risk,0.4216040846173186,Low Priority
+SUG-LAF-25000,Laffy Taffy,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,12.166666666666663,Moderate,High Profit Risk,0.4173600955067758,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,-11.534320884623412,High,High Profit Risk,0.4162041370493852,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,11.433353855068262,Moderate,High Profit Risk,0.4142303119842202,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,11.383965400679752,Moderate,High Profit Risk,0.41401952176167844,Low Priority
+OTH-GUM-21000,Wonka Gum,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,-12.309468822170901,High,High Profit Risk,0.4128958009558279,Low Priority
+OTH-GUM-21000,Wonka Gum,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,-12.670189141588164,High,High Profit Risk,0.411356244447191,Low Priority
+OTH-KAZ-38000,Kazookles,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,-13.011152416356877,High,High Profit Risk,0.4099010111248089,Low Priority
+SUG-FUN-75000,Fun Dip,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,9.418444597384715,Moderate,High Profit Risk,0.40563066706543494,Low Priority
+SUG-FUN-75000,Fun Dip,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,-14.773648648648654,High,High Profit Risk,0.40237866652759785,Low Priority
+OTH-KAZ-38000,Kazookles,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,-15.865783107184187,High,High Profit Risk,0.3977174300420535,Low Priority
+OTH-KAZ-38000,Kazookles,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,7.426905321130641,Moderate,High Profit Risk,0.3971307653689736,Low Priority
+OTH-GUM-21000,Wonka Gum,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,-16.21275675675676,High,High Profit Risk,0.39623654440359574,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,6.880117316387628,Moderate,High Profit Risk,0.39479707085210636,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,6.8147566718995245,Moderate,High Profit Risk,0.39451811122545455,Low Priority
+SUG-FUN-75000,Fun Dip,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,6.061252580867167,Moderate,High Profit Risk,0.3913021511999494,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,5.706875997797005,Moderate,High Profit Risk,0.38978966979647445,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,5.10454614450516,Moderate,High Profit Risk,0.38721892233350985,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,First Class,Lot's O' Nuts,Secret Factory,4.366186784791445,Moderate,High Profit Risk,0.38406760011302443,Low Priority
+OTH-GUM-21000,Wonka Gum,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,-19.10230414746544,High,High Profit Risk,0.38390393863420963,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,4.098697217012223,Moderate,High Profit Risk,0.3829259530172018,Low Priority
+OTH-KAZ-38000,Kazookles,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,-19.49444373483205,High,High Profit Risk,0.3822302844996166,Low Priority
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,First Class,Lot's O' Nuts,Secret Factory,3.685611189296275,Moderate,High Profit Risk,0.3811628993482973,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,Standard Class,Lot's O' Nuts,Secret Factory,3.5897621008769747,Moderate,High Profit Risk,0.380753814858238,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,3.270573232074607,Moderate,High Profit Risk,0.3793915148324368,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,2.390245865357531,Moderate,High Profit Risk,0.37563427229797164,Low Priority
+OTH-GUM-21000,Wonka Gum,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,2.325080891738647,Moderate,High Profit Risk,0.3753561477957752,Low Priority
+SUG-LAF-25000,Laffy Taffy,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,-21.59249084249084,High,High Profit Risk,0.37327580673345995,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,1.5874696417729217,Moderate,High Profit Risk,0.3722080185122266,Low Priority
+OTH-KAZ-38000,Kazookles,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,1.5594614809274427,Moderate,High Profit Risk,0.37208847951205526,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,Standard Class,Lot's O' Nuts,Secret Factory,1.0448501322362687,Moderate,High Profit Risk,0.36989211515815423,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,0.638146385869218,Moderate,High Profit Risk,0.36815630110471276,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,First Class,Lot's O' Nuts,Secret Factory,0.3008448382443875,Moderate,High Profit Risk,0.3667166960559648,Low Priority
+SUG-SWE-91000,SweeTARTS,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,0.19715639810425853,Moderate,High Profit Risk,0.36627415316526757,Low Priority
+OTH-GUM-21000,Wonka Gum,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,0.00015315108354377677,Moderate,High Profit Risk,0.3654333421134718,Low Priority
+OTH-KAZ-38000,Kazookles,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,-0.30246704967895865,Moderate,High Profit Risk,0.3641417572632434,Low Priority
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,-0.3144751573486335,Moderate,High Profit Risk,0.36409050658696007,Low Priority
+OTH-KAZ-38000,Kazookles,Atlantic,First Class,Lot's O' Nuts,Secret Factory,-0.45495905368516837,Moderate,High Profit Risk,0.3634909204662975,Low Priority
+OTH-GUM-21000,Wonka Gum,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,-1.2950099444889753,Moderate,High Profit Risk,0.35990557817503843,Low Priority
+OTH-KAZ-38000,Kazookles,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,-2.089005235602099,Moderate,High Profit Risk,0.3565168014622794,Low Priority
+OTH-GUM-21000,Wonka Gum,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,-2.1379264124388384,Moderate,High Profit Risk,0.35630800558315945,Low Priority
+OTH-GUM-21000,Wonka Gum,Interior,Standard Class,Lot's O' Nuts,Secret Factory,-2.9249293386093735,Moderate,High Profit Risk,0.35294907232633743,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,-3.044466704809881,Moderate,High Profit Risk,0.3524388861231965,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,-3.308477237048673,Moderate,High Profit Risk,0.3513120875721375,Low Priority
+SUG-SWE-91000,SweeTARTS,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,-3.5018009478673036,Moderate,High Profit Risk,0.3504869808031441,Low Priority
+SUG-LAF-25000,Laffy Taffy,Atlantic,First Class,Lot's O' Nuts,Secret Factory,-3.9874411302982695,Moderate,High Profit Risk,0.34841426556235855,Low Priority
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,-4.4641082274986275,Moderate,High Profit Risk,0.3463798475036992,Low Priority
+OTH-GUM-21000,Wonka Gum,Atlantic,First Class,Lot's O' Nuts,Secret Factory,-4.603237268061584,Moderate,High Profit Risk,0.34578604391568646,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,First Class,Lot's O' Nuts,Secret Factory,-5.561752988047805,Moderate,High Profit Risk,0.34169509301577744,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,-30.006036217303823,High,High Profit Risk,0.3373667441016952,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,-7.137362637362641,Moderate,High Profit Risk,0.33497038148693314,Low Priority
+SUG-NER-92000,Nerds,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,-7.638519730116548,Moderate,High Profit Risk,0.33283143997888276,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Interior,Standard Class,Lot's O' Nuts,Secret Factory,-8.53578134779887,Moderate,High Profit Risk,0.3290019219587045,Low Priority
+SUG-NER-92000,Nerds,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,-11.627887957472915,Moderate,High Profit Risk,0.315804792215603,Low Priority
+OTH-KAZ-38000,Kazookles,Interior,Standard Class,Lot's O' Nuts,Secret Factory,-16.281900625878155,Moderate,High Profit Risk,0.295941437951289,Low Priority
+SUG-LAF-25000,Laffy Taffy,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,-16.3003663003663,Moderate,High Profit Risk,0.2958626263407024,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,-46.07150715071507,High,High Profit Risk,0.2687992168279168,Low Priority
+OTH-KAZ-38000,Kazookles,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,-22.807205452775076,Moderate,High Profit Risk,0.2680913974176207,Low Priority
+OTH-LIC-15000,Lickable Wallpaper,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,-55.690265486725664,High,High Profit Risk,0.22774629797617865,Low Priority
+SUG-FUN-75000,Fun Dip,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,-56.609557109557116,High,High Profit Risk,0.22382275576055888,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,-62.19126328217237,High,High Profit Risk,0.2,Low Priority
+OTH-FIZ-56000,Fizzy Lifting Drinks,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,-39.713971397139716,Moderate,High Profit Risk,0.1959332179402476,Low Priority
